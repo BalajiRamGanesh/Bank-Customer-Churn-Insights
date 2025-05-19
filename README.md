@@ -13,12 +13,12 @@ The project investigates customer churn in a bank to understand the factors behi
 
 ## Data Description
 - Source : [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data)
-- Row : 10,000
+- Rows : 10,000
 - Columns : CustomerId, Surname, CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, Exited, Complain, Satisfaction Score, Card Type, Point Earned
 
 
 ## Tools Used
-- **Mysql Workbench** -   Data transformation and analysis.
+- **Mysql Workbench** - Data analysis.
 - **MS Excel** - Data visualization using pivot tables and charts.
 
 ## Dashboard Preview
